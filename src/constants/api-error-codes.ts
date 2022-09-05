@@ -1,0 +1,4 @@
+export const API_ERROR_CODES = {
+    API_NOT_FOUND: "API_NOT_FOUND",
+    UNHANDLED_ERROR: "UNHANDLED_ERROR",
+} as const;
